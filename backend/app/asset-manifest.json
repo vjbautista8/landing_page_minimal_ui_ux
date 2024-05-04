@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/appfiles/v2/94fac92c-d8b4-4dd0-915d-565c2f786868/1.0/8a1845675539f2494de1e76e574b697054dbeb3dd359acea50a45e0e7a798d33/r4/app/static/css/main.0ed34f22.css",
+    "main.js": "/appfiles/v2/94fac92c-d8b4-4dd0-915d-565c2f786868/1.0/8a1845675539f2494de1e76e574b697054dbeb3dd359acea50a45e0e7a798d33/r4/app/static/js/main.7bb54a9d.js",
+    "static/js/49.e4cfba42.chunk.js": "/appfiles/v2/94fac92c-d8b4-4dd0-915d-565c2f786868/1.0/8a1845675539f2494de1e76e574b697054dbeb3dd359acea50a45e0e7a798d33/r4/app/static/js/49.e4cfba42.chunk.js",
+    "static/js/271.6744f052.chunk.js": "/appfiles/v2/94fac92c-d8b4-4dd0-915d-565c2f786868/1.0/8a1845675539f2494de1e76e574b697054dbeb3dd359acea50a45e0e7a798d33/r4/app/static/js/271.6744f052.chunk.js",
+    "index.html": "/appfiles/v2/94fac92c-d8b4-4dd0-915d-565c2f786868/1.0/8a1845675539f2494de1e76e574b697054dbeb3dd359acea50a45e0e7a798d33/r4/app/index.html",
+    "static/media/slick.svg": "/appfiles/v2/94fac92c-d8b4-4dd0-915d-565c2f786868/1.0/8a1845675539f2494de1e76e574b697054dbeb3dd359acea50a45e0e7a798d33/r4/app/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/appfiles/v2/94fac92c-d8b4-4dd0-915d-565c2f786868/1.0/8a1845675539f2494de1e76e574b697054dbeb3dd359acea50a45e0e7a798d33/r4/app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/appfiles/v2/94fac92c-d8b4-4dd0-915d-565c2f786868/1.0/8a1845675539f2494de1e76e574b697054dbeb3dd359acea50a45e0e7a798d33/r4/app/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/appfiles/v2/94fac92c-d8b4-4dd0-915d-565c2f786868/1.0/8a1845675539f2494de1e76e574b697054dbeb3dd359acea50a45e0e7a798d33/r4/app/static/media/slick.295183786cd8a1389865.woff",
+    "main.0ed34f22.css.map": "/appfiles/v2/94fac92c-d8b4-4dd0-915d-565c2f786868/1.0/8a1845675539f2494de1e76e574b697054dbeb3dd359acea50a45e0e7a798d33/r4/app/static/css/main.0ed34f22.css.map",
+    "main.7bb54a9d.js.map": "/appfiles/v2/94fac92c-d8b4-4dd0-915d-565c2f786868/1.0/8a1845675539f2494de1e76e574b697054dbeb3dd359acea50a45e0e7a798d33/r4/app/static/js/main.7bb54a9d.js.map",
+    "49.e4cfba42.chunk.js.map": "/appfiles/v2/94fac92c-d8b4-4dd0-915d-565c2f786868/1.0/8a1845675539f2494de1e76e574b697054dbeb3dd359acea50a45e0e7a798d33/r4/app/static/js/49.e4cfba42.chunk.js.map",
+    "271.6744f052.chunk.js.map": "/appfiles/v2/94fac92c-d8b4-4dd0-915d-565c2f786868/1.0/8a1845675539f2494de1e76e574b697054dbeb3dd359acea50a45e0e7a798d33/r4/app/static/js/271.6744f052.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ed34f22.css",
+    "static/js/main.7bb54a9d.js"
+  ]
+}
